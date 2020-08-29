@@ -1,4 +1,8 @@
 # BigDataApps
+
+Name: Prabhanjan Trivedi
+Email:ptrivedi@mail.umkc.edu
+
 Aim of this repository is to perform basic data analysis on provided csv dataset.
 
 Path for source code 
